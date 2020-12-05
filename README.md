@@ -4,4 +4,4 @@ Ce projet a été fait dans le cadre du cours Programmation fonctionnelle en Has
 
 Il consiste en la résolution d'un labyrinthe donné.
 
-![alt text](https://github.com/Julie-Pibouteau/Resolution-de-labyrinthe/raw/main/resultat%20lab5.png)
+![alt text](https://github.com/Julie-Pibouteau/Resolution-de-labyrinthe/raw/main/resultat lab5.png)
